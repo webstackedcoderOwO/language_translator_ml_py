@@ -4,6 +4,7 @@ The ```.ipynb``` or the ```notebook``` program is working very fine but the ```.
 But you can still run the ```.ipynb``` program in your google collab or jupyter notebook
 To run the program follow the steps
 - Open the program in Google Collabotary or Jupyter NoteBook
+- Run each and every codeblock starting from ```!pip install ibm_watson``` to ```authenticating the api key```
 - Add a new codeblock.
 - Run the following command.
 ```
